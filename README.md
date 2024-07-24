@@ -1,3 +1,2 @@
-# actividad_guiada_3
+# Titanic: Análisis descriptivo de dataset
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/kpaulfran/actividad_guiada_3)
