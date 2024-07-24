@@ -1,1 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main>
+      <h1>Trabajo Práctico - Visualización de Datos</h1>
+    </main>
+      <p> Introducción:
 
+El fútbol, considerado el deporte más popular del mundo, genera una gran cantidad de datos valiosos que pueden ser analizados para comprender mejor el juego y sus estrategias. En este trabajo, nos embarcaremos en un viaje exploratorio a través de un conjunto de datos de fútbol que abarca un extenso período desde 1916 hasta el 2024. Nuestro objetivo principal es analizar el comportamiento goleador de las selecciones participantes, con un enfoque particular en las dos potencias mundiales: Brasil y Alemania.
+
+Objetivos:
+
+Visualizar el comportamiento goleador a lo largo del tiempo: Examinar la evolución de la cantidad de goles anotados a lo largo de los años, identificando tendencias y patrones.
+
+Analizar las principales selecciones goleadoras: Identificar los países que han marcado la mayor cantidad de goles durante el período de estudio, comparando su rendimiento y destacando a los máximos anotadores.
+
+Evaluar el desempeño de Brasil y Alemania: Profundizar en el análisis de las dos selecciones con mayor cantidad de campeonatos mundiales, Brasil y Alemania, comparando su rendimiento goleador y buscando patrones que expliquen su éxito.
+
+Explorar la relación entre goles y campeonatos: Investigar si existe una correlación significativa entre la cantidad de goles anotados por una selección y su probabilidad de ganar el campeonato mundial.
+
+Identificar los minutos con mayor probabilidad de gol: Analizar el patrón de anotaciones a lo largo de un partido, determinando en qué momentos del juego se produce una mayor concentración de goles.
+
+Metodología:
+
+Exploración de datos: Examinar las características del conjunto de datos, incluyendo variables, tipos de datos, distribución y posibles valores atípicos.
+
+Limpieza y preparación de datos: Abordar cualquier inconsistencia o falta de datos, codificando variables categóricas y normalizando las variables numéricas si es necesario.
+
+Análisis descriptivo: Utilizar medidas de tendencia central, dispersión y gráficos visuales para describir las características principales del conjunto de datos.
+
+Análisis estadístico: Aplicar pruebas estadísticas y modelos de regresión para evaluar las relaciones entre variables y determinar la significancia de los hallazgos.
+
+Visualización de datos: Crear gráficos y visualizaciones atractivas que comuniquen claramente los resultados del análisis y faciliten la comprensión de los patrones identificados.
+
+Conclusiones esperadas:
+
+A través de este análisis exhaustivo, esperamos obtener información valiosa sobre el comportamiento goleador en el fútbol, comprender las estrategias de las selecciones más exitosas y determinar si la cantidad de goles anotados es un factor determinante para ganar campeonatos mundiales. Además, esperamos identificar los momentos clave dentro de un partido en los que se presenta una mayor probabilidad de gol, lo que podría aportar información útil para el desarrollo de estrategias de juego.
+
+Contribución:
+
+Este análisis no solo busca satisfacer la curiosidad sobre el fútbol y sus estadísticas, sino que también pretende contribuir a una mejor comprensión del deporte, ofreciendo información valiosa para entrenadores, analistas y aficionados en general. Los resultados obtenidos podrían ser utilizados para optimizar las estrategias de juego, identificar talentos potenciales y mejorar la experiencia general del fútbol como espectáculo deportivo.</p>
+  </body>
+
+  <body>
+    <h3> Links </h3>
+    <h4>
+      Dataset: <a href="https://drive.google.com/file/d/1Oamk9ht9hTANaGpiF2VRmMD9zxUHgIKG/view?usp=sharing"> https://drive.google.com/file/d/1Oamk9ht9hTANaGpiF2VRmMD9zxUHgIKG/view?usp=sharing</a>
+    </h4>
+    <h4>
+    Google Colab: <a href="https://colab.research.google.com/drive/107tQ3BoXrs6T5YXC1jM9I7akm25E7yEg?usp=sharing"> https://colab.research.google.com/drive/107tQ3BoXrs6T5YXC1jM9I7akm25E7yEg?usp=sharing</a>
+    </h4>
+      
+  </body>
+</html>
